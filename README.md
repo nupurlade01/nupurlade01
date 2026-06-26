@@ -107,7 +107,7 @@
 
 <p align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nupurlade&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupurlade&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupurlade01&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true"/>
 </p>
 
 ---
