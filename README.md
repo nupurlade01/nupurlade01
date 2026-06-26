@@ -10,8 +10,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nupur-lade)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nupurlade0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nupurlade)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/nupurlade)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nupurlade01)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/nupurlade01)
 
 ---
 
@@ -106,7 +106,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nupurlade&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nupurlade01&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupurlade01&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true"/>
 </p>
 
