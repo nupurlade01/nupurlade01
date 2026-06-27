@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,20,24&height=180&section=header&text=Hi%20there%20👋%2C%20I'm%20Nupur%20Lade&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20B.Tech%20CS%20(AI%26ML)%20%E2%80%A2%20VIT%20Pune&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,20,24&height=180&section=header&text=Hi%20there%2C%20I'm%20Nupur%20Lade&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20B.Tech%20CS%20AI%26ML%20%7C%20VIT%20Pune&descAlignY=62&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=8B5CF6&vCenter=true&width=600&lines=B.Tech+CS+(AI%26ML)+%E2%80%A2+VIT+Pune+%E2%80%A2+CGPA+9.33%2F10;Building+Intelligent+Systems+%F0%9F%A4%96;NLP+%7C+Machine+Learning+%7C+Data+Science;IEEE+CIS+AI+Research+Intern" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=8B5CF6&vCenter=true&width=600&lines=B.Tech+CS+(AI%26ML)+%7C+VIT+Pune+%7C+CGPA+9.33%2F10;Building+Intelligent+Systems;NLP+%7C+Machine+Learning+%7C+Data+Science;IEEE+CIS+AI+Research+Intern" alt="Typing SVG" />
 </a>
 
 ---
@@ -94,7 +94,7 @@ Developing an AI-powered Answer Sheet Evaluation System that automates the asses
 - Integrated **OpenAI Whisper** for multilingual speech-to-text and **BART** for abstractive summarisation
 - Fine-tuned **BERT** classifier for fake news detection
 - Designed a Flask REST API backend with responsive frontend for real-time AI output visualisation
-- 📄 **Accepted at ETLTC-ICETM 2026 International Conference, Japan**
+- Accepted at **ETLTC-ICETM 2026 International Conference, Japan**
 
 </details>
 
@@ -128,17 +128,17 @@ Developing an AI-powered Answer Sheet Evaluation System that automates the asses
 
 ### 🏆 Achievements
 
-- 🎓 Maintained a **CGPA of 9.33 / 10.0** at VIT Pune
-- 🌏 **ETLTC-ICETM 2026, Japan** — Accepted research paper on **TatvAI** (Multimodal AI News Analysis)
-- 🌏 **ETLTC-ICETM 2026, Japan** — Accepted research paper on **FlowWave-AI** (Intelligent Traffic Management)
-- 💻 Solved **80+ DSA problems** on LeetCode — arrays, linked lists, trees, recursion, hashing
+- Maintained a **CGPA of 9.33 / 10.0** at VIT Pune
+- **ETLTC-ICETM 2026, Japan** — Accepted research paper on **TatvAI** (Multimodal AI News Analysis)
+- **ETLTC-ICETM 2026, Japan** — Accepted research paper on **FlowWave-AI** (Intelligent Traffic Management)
+- Solved **80+ DSA problems** on LeetCode — arrays, linked lists, trees, recursion, hashing
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nupurlade01&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nupurlade01&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true"/>
   &nbsp;
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupurlade01&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true"/>
 </p>
