@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,20,24&height=180&section=header&text=Hi%20there%20👋%2C%20I'm%20Nupur%20Lade&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20International%20Researcher&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,20,24&height=180&section=header&text=Hi%20there%20👋%2C%20I'm%20Nupur%20Lade&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20B.Tech%20CS%20(AI%26ML)%20%E2%80%A2%20VIT%20Pune&descAlignY=62&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=8B5CF6&vCenter=true&width=600&lines=B.Tech+CS+(AI%26ML)+%E2%80%A2+VIT+Pune+%E2%80%A2+CGPA+9.33%2F10;Building+Intelligent+Systems+%F0%9F%A4%96;NLP+%7C+Machine+Learning+%7C+Data+Science;ETLTC-ICETM+2026+International+Researcher+%F0%9F%8C%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=8B5CF6&vCenter=true&width=600&lines=B.Tech+CS+(AI%26ML)+%E2%80%A2+VIT+Pune+%E2%80%A2+CGPA+9.33%2F10;Building+Intelligent+Systems+%F0%9F%A4%96;NLP+%7C+Machine+Learning+%7C+Data+Science;IEEE+CIS+AI+Research+Intern" alt="Typing SVG" />
 </a>
 
 ---
@@ -17,18 +17,29 @@
 
 ### 💻 Tech Stack
 
+**Languages**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI / ML & Data Science**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Backend & Databases**
+
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & DevOps**
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -42,11 +53,32 @@
 | Domain | Tools & Frameworks |
 |:---|:---|
 | Supervised Learning | Scikit-learn · Random Forest · Logistic Regression · SVM |
-| Natural Language Processing | BERT · BART · HuggingFace Transformers |
+| Natural Language Processing | BERT · BART · HuggingFace Transformers · Semantic Similarity |
 | Speech Processing | OpenAI Whisper · Multilingual ASR |
 | Data Analysis & EDA | Pandas · NumPy · Matplotlib · Seaborn |
 | Model Evaluation | ROC-AUC · Confusion Matrix · Feature Importance |
 | Database Engineering | MySQL · Stored Procedures · Views · Triggers |
+
+---
+
+### 💼 Experience
+
+**AI Research Intern** · IEEE Computational Intelligence Society (CIS) Pune Section
+
+`June 2026 – July 2026`
+
+Developing an AI-powered Answer Sheet Evaluation System that automates the assessment of descriptive academic responses using NLP and ML. The system applies semantic similarity analysis to evaluate answer quality, generate automated scores and structured feedback, and improve the efficiency and consistency of large-scale educational assessment pipelines.
+
+- Designed and implemented NLP-based semantic similarity scoring for open-ended descriptive answers
+- Engineered automated feedback generation to provide students with actionable evaluation insights
+- Focused on consistency, fairness, and scalability across diverse answer formats and domains
+- Integrated ML classification techniques to handle varying levels of answer completeness and relevance
+
+![NLP](https://img.shields.io/badge/-NLP-6D28D9?style=flat-square&logoColor=white)
+![Semantic Similarity](https://img.shields.io/badge/-Semantic%20Similarity-7C3AED?style=flat-square&logoColor=white)
+![ML Classification](https://img.shields.io/badge/-ML%20Classification-8B5CF6?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-4C1D95?style=flat-square&logo=python&logoColor=white)
+![IEEE](https://img.shields.io/badge/-IEEE%20CIS-00629B?style=flat-square&logo=ieee&logoColor=white)
 
 ---
 
@@ -106,7 +138,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nupurlade01&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nupurlade01&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+  &nbsp;
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupurlade01&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true"/>
 </p>
 
@@ -116,7 +149,7 @@
 
 ```yaml
 learning:   Advanced Deep Learning · Cloud ML Deployment · System Design
-building:   TatvAI v2 · FlowWave-AI production system · Open source ML tools
+building:   AI Answer Evaluation System · TatvAI v2 · Open source ML tools
 open_to:    AI/ML Internships · Research Collaborations · Full Stack Roles
 ```
 
