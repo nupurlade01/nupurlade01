@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,20,24&height=180&section=header&text=Hi%20there%2C%20I'm%20Nupur%20Lade&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20B.Tech%20CS%20AI%26ML%20%7C%20VIT%20Pune&descAlignY=62&descAlign=50" width="100%"/>
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=8B5CF6&vCenter=true&width=600&lines=B.Tech+CS+(AI%26ML)+%7C+VIT+Pune+%7C+CGPA+9.33%2F10;Building+Intelligent+Systems;NLP+%7C+Machine+Learning+%7C+Data+Science;IEEE+CIS+AI+Research+Intern" alt="Typing SVG" />
