@@ -25,7 +25,7 @@ Building high-performance, intelligent systems and scalable web applications.
 - 🎓 B.Tech in Computer Science (AI & ML), VIT Pune **CGPA 9.33/10**
 - 🔬 AI Research Intern @ IEEE Computational Intelligence Society (CIS), Pune Section
 - 📄 Two research papers accepted **TatvAI** & **FlowWave-AI** at **ETLTC-ICETM 2026, Japan**
-- 💻 100+ DSA problems solved on LeetCode (arrays, trees, recursion, hashing)
+- 💻 100+ DSA problems solved on LeetCode 
 - 🧩 Builder-oriented: ships end-to-end ML & full-stack projects, from data pipelines to deployed UIs
 - 🛠️ Active in open-source and personal project development (portfolio, MotivaAI, Edulytics)
 
